@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Pedro+das+Neves+%F0%9F%91%8B;Hi%2C+I'm+Jo%C3%A3o+Pedro+das+Neves+%F0%9F%91%8B;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Pedro+das+Neves+%F0%9F%91%8B;Hi%2C+I'm+Jo%C3%A3o+Pedro+das+Neves+%F0%9F%91%8B;Junior+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React" alt="Typing SVG" />
 
 </div>
 
@@ -8,13 +8,13 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou desenvolvedor **Full-Stack** apaixonado por criar soluções que resolvem problemas reais. Atualmente construindo um sistema completo com **Java + Spring Boot + React**, voltado para a gestão da minha empresa familiar — e com muito mais projetos pela frente.
+Sou desenvolvedor **Full-Stack Júnior** apaixonado por criar soluções que resolvem problemas reais. Atualmente construindo um sistema completo com **Java + Spring Boot + React**, voltado para a gestão da minha empresa familiar — e com muito mais projetos pela frente.
 
 Estou em constante evolução, sempre buscando boas práticas, código limpo e arquiteturas que escalam.
 
 ## 🇺🇸 About me
 
-I'm a **Full-Stack Developer** passionate about building software that solves real problems. Currently developing a full system using **Java + Spring Boot + React**, focused on managing my family business — with many more projects in the pipeline.
+I'm a **Junior Full-Stack Developer** passionate about building software that solves real problems. Currently developing a full system using **Java + Spring Boot + React**, focused on managing my family business — with many more projects in the pipeline.
 
 Always evolving, seeking clean code, best practices and scalable architectures.
 
