@@ -28,6 +28,7 @@ I built — solo, from database to deployment — **two live projects** for my f
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-FF6600?style=for-the-badge&logo=jreport&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -58,10 +59,11 @@ Sistema **web full-stack** de gestão para a **MB Consultoria e Treinamento Neve
 - 👥 Cadastro de **empresas, alunos e cursos/NRs**
 - 📅 **Agenda** de treinamentos em calendário
 - ✅ **Matrículas em lote** (importação de planilhas)
+- 📄 **Geração automática de certificados em PDF** com **JasperReports**
 - 🔐 **Controle de acesso por perfil** (JWT + BCrypt)
 - 💰 Módulo **financeiro**
 
-`Java 21` `Spring Boot` `PostgreSQL` `Supabase` `JWT` `React`
+`Java 21` `Spring Boot` `PostgreSQL` `Supabase` `JWT` `JasperReports` `React`
 
 ### 🌐 Site Institucional MB `no ar`
 
@@ -86,6 +88,8 @@ Site institucional (vitrine digital) da MB Consultoria, apresentando os cursos e
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=neves195&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/neves195)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=neves195&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neves195&theme=tokyo-night&hide_border=true&area=true)](https://github.com/neves195)
 
 ---
 
